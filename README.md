@@ -1,4 +1,5 @@
 **Air Quality Index (AQI) Prediction and Analysis using Machine Learning**
+
 This project focuses on predicting the Air Quality Index (AQI) using machine learning techniques.
 We preprocess pollutant data, handle missing values, train multiple ML models, and compare their performance to determine the best AQI predictor.
 
