@@ -70,7 +70,7 @@ Encoded categorical columns
 
 Random Forest Regressor
 
-Decision Tree Regressor
+Gradient boosting
 
 
 **Model Comparison**
